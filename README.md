@@ -30,21 +30,6 @@ Taux d’occupation des logements.
 Rentabilité et viabilité du modèle économique.
 
 
-## Personnas
-
-### Seniors
-- Définir les niveaux d'indépendance
-- 
-### Santé
-- Définir le corps de métier
-- 
-### Biens immobiliers
-- Gestion des biens
-
-### Personnes qui suivent
-
-
-
 
 
 
